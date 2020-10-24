@@ -1,0 +1,19 @@
+.bg-orange{
+	background-color: orange;
+	padding-right: 10%;
+	padding-left: 10%;
+}
+
+.alto{
+	height: 700px;
+}
+
+.alto img{
+
+	position: absolute;
+	transform: translateY(-15%);
+
+
+}
+
+
